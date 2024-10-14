@@ -1,0 +1,18 @@
+body {
+    font-family: "Libre Baskerville", serif;
+    height: 75ch;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+} 
+
+table,td,tr {
+    background-color: #ffffff;
+    text-align: center;
+    font-weight: bolder;
+    border: #1c432d solid 2px;
+    border-collapse: collapse;
+}
+
